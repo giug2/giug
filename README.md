@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering <br>at Roma Tre University, focusing on Algorithms, Big Data, and Machine Learning.  
+# 🤖 About Me:
+Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering at Roma Tre University, focusing on Algorithms, Big Data, and Machine Learning.  
 
 
 ## 🌐 Socials:
