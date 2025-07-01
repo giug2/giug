@@ -6,8 +6,6 @@ Hi! I'm Giulia Gaglione, a Master's student in Computer Engineering at Roma Tre 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giulia.ggln) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-gaglione-9bb926234/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:giulia.gaglione02@gmail.com) 
 
 # 💻 Tech Stack:
-## Tecnologie usate
-
 ### Linguaggi
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
